@@ -1,0 +1,9 @@
+{
+  "name": "roots-em-local-storage",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "start": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build"
+  }
+}
