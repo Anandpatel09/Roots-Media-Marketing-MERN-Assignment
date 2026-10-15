@@ -1,12 +1,12 @@
 # Roots Media HR Management
 
-A browser-based employee and task management app built with React, TypeScript, and Vite. Employee and task records are saved in the browser's `localStorage`.
+A browser-based employee and task management app built with React, TypeScript, and Vite. Employee and task records are saved in the Mongodb.
 
 ## Requirements
 
 - Node.js and npm
 
-MongoDB and the backend server are not required.
+MongoDB and the backend server are  required.
 
 ## Run the app
 
